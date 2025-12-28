@@ -38,27 +38,27 @@
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
   />
 
-<img
+  <img
     alt="C++"
     src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
   />
 
-<img
+  <img
     alt="C#"
     src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
   />
 
-<img
+  <img
     alt="Vue"
     src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
   />
 
-<img
+  <img
     alt="Kali"
     src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"
   />
 
-<img
+  <img
     alt="MySQL"
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
   />
@@ -105,7 +105,7 @@
   <br>
   <br>
   <img
-    alt="Likedin"
+    alt="Linkedin"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-ventura/)"
   />
 <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." width="25" height="25" />
