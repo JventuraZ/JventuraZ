@@ -5,6 +5,7 @@
   </div>
 
 <h2 align="center">
+  <img src="https://i.gifer.com/Y8HD.gif" alt="Loading..."  />
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+João+Ventura.;Nice+to+meet+you+👋"
   />
@@ -25,9 +26,9 @@
 
 </br>
 
-
+https://i.gifer.com/Y8HD.gif
 ## **My Skills**
-
+<img src="https://i.gifer.com/40IR.gif" alt="Loading..."  />
 
 <p>
 
@@ -75,10 +76,8 @@
     alt="TailwindCSS"
     src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
-  <img
-    alt="MUI"
-    src="https://img.shields.io/badge/MUI-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white"
-  />
+  
+  
   <img
     alt="JAVA"
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
@@ -105,10 +104,9 @@
   <br>
   <br>
   <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-ventura/)"
-  />
-<img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." width="25" height="25" />
+
+  
+
 </p>
 
 ## **My Social Network**
