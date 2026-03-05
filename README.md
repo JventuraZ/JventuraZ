@@ -1,6 +1,6 @@
 <div align="center">
   
-  **`DevOps Junior`**
+  **`Computer Science Student | Information Security`**
   
   </div>
 
