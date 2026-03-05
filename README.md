@@ -33,27 +33,6 @@ https://i.gifer.com/Y8HD.gif
 <p>
 
 
-
-  <img
-    alt="C"
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-  />
-
-  <img
-    alt="C++"
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-  />
-
-  <img
-    alt="C#"
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-  />
-
-  <img
-    alt="Vue"
-    src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
-  />
-
   <img
     alt="Kali"
     src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"
@@ -64,20 +43,6 @@ https://i.gifer.com/Y8HD.gif
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
   />
 
-  <img
-    alt="react."
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-  />
-  <img
-    alt="next"
-    src="https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB"
-  />
-  <img
-    alt="TailwindCSS"
-    src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  />
-  
-  
   <img
     alt="JAVA"
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
@@ -90,14 +55,7 @@ https://i.gifer.com/Y8HD.gif
     alt="JavaScript"
     src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
   />
-  <img
-    alt="CSS3"
-    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <img
-    alt="HTML5"
-    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-  />
+
 
 
 
