@@ -19,8 +19,8 @@
 ![Cool GIF](https://private-user-images.githubusercontent.com/105444486/324632560-0285b221-fdb2-495a-b967-c416c1644c13.gif)
 
 <ul>
-  <li>💻 Junior Software Developer interested in building and evolving different types of systems, exploring multiple technologies and development methodologies.</li>
-  <li>💡 Curious and continuous learner, with growing interest in software quality, best practices and security-aware development.</li>
+  <li>🔐 Information Security Student focused on understanding cybersecurity principles, risk management, and defensive strategies to protect systems and data.</li>
+  <li>🛡️ Curious and continuous learner, with growing interest in ethical hacking, vulnerability analysis, security best practices, and secure system architecture.</li>
 </ul>
 
 
